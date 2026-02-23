@@ -1,9 +1,7 @@
 
 ---
 
----
-
-# 📁 Repository 3: Bata Sales Analysis (Power BI Project)
+# 📁 Bata Sales Analysis (Power BI Project)
 
 ```markdown
 # 📊 Bata Sales Analysis Dashboard (Power BI)
