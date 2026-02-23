@@ -1,3 +1,34 @@
+
+---
+
+---
+
+# 📁 Repository 3: Bata Sales Analysis (Power BI Project)
+
+```markdown
+# 📊 Bata Sales Analysis Dashboard (Power BI)
+
+A professional retail sales analysis dashboard built using Microsoft Power BI.
+
+---
+
+## 📌 Overview
+
+This project analyzes Bata sales data to generate actionable business insights.
+
+The dashboard includes:
+
+- Sales KPIs
+- Profit analysis
+- Regional performance
+- Product category breakdown
+- Trend analysis
+
+---
+
+## 📁 File Included
+
+
 ## 📊 Dashboard Features
 
 ✔ Total Sales KPI  
