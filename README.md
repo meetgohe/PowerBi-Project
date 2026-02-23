@@ -1,14 +1,9 @@
-
----
-
 # 📁 Bata Sales Analysis (Power BI Project)
 
 ```markdown
 # 📊 Bata Sales Analysis Dashboard (Power BI)
 
 A professional retail sales analysis dashboard built using Microsoft Power BI.
-
----
 
 ## 📌 Overview
 
@@ -22,7 +17,6 @@ The dashboard includes:
 - Product category breakdown
 - Trend analysis
 
----
 
 ## 📁 File Included
 
@@ -36,7 +30,6 @@ The dashboard includes:
 ✔ Region-wise Performance  
 ✔ Interactive slicers and filters  
 
----
 
 ## 🛠 Tools & Technologies
 
@@ -45,7 +38,6 @@ The dashboard includes:
 - DAX Measures
 - Interactive Visualizations
 
----
 
 ## 📈 Insights Generated
 
@@ -54,7 +46,6 @@ The dashboard includes:
 - Monthly growth trends
 - Sales distribution by category
 
----
 
 ## 🧠 Skills Demonstrated
 
@@ -64,7 +55,6 @@ The dashboard includes:
 - Business intelligence reporting
 - Dashboard design using color psychology
 
----
 
 ## 🔮 Future Improvements
 
@@ -73,7 +63,6 @@ The dashboard includes:
 - Publish to Power BI Service
 - Embed dashboard in portfolio website
 
----
 
 ## 👨‍💻 Author
 
